@@ -1,0 +1,9 @@
+[profile.default]
+src = "src"
+out = "out"
+test = "test"
+script = "script"
+cache_path = "cache"
+
+# Disable the use of the global system cache
+cache = true
